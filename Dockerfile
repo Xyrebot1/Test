@@ -3,4 +3,4 @@ FROM python:latest
 
 EXPOSE 8080
 
-CMD [“python”, "helloworld.py"]
+CMD ["python", "helloworld.py"]
